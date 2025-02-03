@@ -9,5 +9,4 @@ import { CommonModule } from '@angular/common';
   styleUrls: ['./portfolio.component.scss']
 })
 export class PortfolioComponent {
-  // No additional logic needed for this static content
 }
